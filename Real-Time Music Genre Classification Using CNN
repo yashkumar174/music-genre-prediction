@@ -1,0 +1,14 @@
+This project demonstrates a real-time music genre classification system using a Convolutional Neural Network (CNN). 
+It leverages Librosa for audio feature extraction and TensorFlow/Keras for building and training the model.
+
+features:-
+1.Real-time audio recording via microphone.
+
+2.Intelligent genre prediction using MFCC, Chroma, Mel-Spectrogram, and ZCR features.
+
+3.CNN-based architecture for high accuracy.
+
+4.Automatic silence detection to avoid false predictions.
+
+5.Configurable dataset and training parameters.
+
